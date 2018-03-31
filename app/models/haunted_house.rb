@@ -1,4 +1,4 @@
 # Create your HauntedHouse class here
 # Create your CostumeStore class here
-class auntedHouse  < ActiveRecord::Base
+class HauntedHouse  < ActiveRecord::Base
 end
